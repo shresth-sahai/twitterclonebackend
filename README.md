@@ -10,9 +10,6 @@ Backend APIs of twitter clone application built using Node.js and HarperDB
  -  /tweets/add :- Route for adding tweets to database
  -  /tweets/getAll :- Route for fetching saved tweets from database
 
-## Tutorials:-
-Youtube tutorial:- 
-https://youtu.be/DLftEcoUAgQ
 
 Hashnode article series:-
 https://saurabhnative.hashnode.dev/series/twitter-clone
